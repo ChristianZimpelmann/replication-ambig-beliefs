@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="200pt"
+   height="200pt"
+   viewBox="0 0 70.555558 70.555555"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="option-1-event-2.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker5971"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path5969"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#bfafa0;stroke-opacity:1;fill:#bfafa0;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.3) rotate(180) translate(-2.3,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker5929"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.3) rotate(180) translate(-2.3,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#bfafa0;stroke-opacity:1;fill:#bfafa0;fill-opacity:1"
+         id="path5927" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path4791"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path4803"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-0.18708868 : 48.561073 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="27.408492 : 43.591664 : 1"
+       inkscape:persp3d-origin="35.277779 : 23.518518 : 1"
+       id="perspective97" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="121.16827"
+     inkscape:cy="100.61768"
+     inkscape:document-units="pt"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="pt"
+     showborder="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     showguides="false"
+     inkscape:snap-others="true"
+     inkscape:snap-grids="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid136" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-226.44446)">
+    <rect
+       ry="3.4762745"
+       y="283.77087"
+       x="0"
+       height="13.229158"
+       width="15.223347"
+       id="rect3836"
+       style="fill:#d75b66;fill-opacity:1;stroke-width:0.22563159" />
+    <rect
+       style="fill:#f1ba48;fill-opacity:1;stroke-width:0.22563159"
+       id="rect3838"
+       width="15.223347"
+       height="13.229158"
+       x="55.332211"
+       y="283.77087"
+       ry="3.4762745" />
+    <rect
+       style="fill:#bfafa0;fill-opacity:1;stroke-width:0.274243"
+       id="rect3840"
+       width="36.801865"
+       height="13.229158"
+       x="16.83007"
+       y="226.44446"
+       ry="3.4762745">
+      <title
+         id="title3846">Resultaat van AEX over de komende zes op 31 oktober 2019</title>
+    </rect>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.14459896px;line-height:110.00000238%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30361497px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="35.343666"
+       y="230.75018"
+       id="text3844"
+       sodipodi:linespacing="110%"><tspan
+         sodipodi:role="line"
+         x="35.84906"
+         y="230.75018"
+         style="font-size:2.82222233px;line-height:110.00000238%;text-align:center;text-anchor:middle;stroke-width:0.30361497px"
+         id="tspan3854">Resultaat van </tspan><tspan
+         sodipodi:role="line"
+         x="35.343666"
+         y="234.24268"
+         style="font-size:2.82222233px;line-height:110.00000238%;text-align:center;text-anchor:middle;stroke-width:0.30361497px"
+         id="tspan3906">€1000 investering in AEX</tspan><tspan
+         sodipodi:role="line"
+         x="35.84906"
+         y="237.73518"
+         style="font-size:2.82222233px;line-height:110.00000238%;text-align:center;text-anchor:middle;stroke-width:0.30361497px"
+         id="tspan4770">op 31 oktober 2019</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333397px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="21.166668"
+       y="245.40627"
+       id="text3904"><tspan
+         sodipodi:role="line"
+         id="tspan3902"
+         x="21.166668"
+         y="254.77003"
+         style="stroke-width:0.26458335px" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.14459896px;line-height:5.00000007%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30361497px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="62.95166"
+       y="292.95377"
+       id="text4774"
+       sodipodi:linespacing="5.0000001%"><tspan
+         sodipodi:role="line"
+         x="64.07476"
+         y="292.95377"
+         style="font-size:7.05555582px;line-height:5.00000007%;text-align:center;text-anchor:middle;stroke-width:0.30361497px"
+         id="tspan4772">20€ </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.14459896px;line-height:5.00000007%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30361497px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="7.3791294"
+       y="292.95377"
+       id="text4778"
+       sodipodi:linespacing="5.0000001%"><tspan
+         sodipodi:role="line"
+         x="8.5022306"
+         y="292.95377"
+         style="font-size:7.05555582px;line-height:5.00000007%;text-align:center;text-anchor:middle;stroke-width:0.30361497px"
+         id="tspan4776">0€ </tspan></text>
+    <path
+       style="fill:#bfafa0;fill-opacity:1;fill-rule:evenodd;stroke:#bfafa0;stroke-width:3.70725894;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5929)"
+       d="M 44.974889,242.63671 59.82941,276.75235"
+       id="path3389"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <rect
+       ry="3.4762726"
+       y="253.25299"
+       x="42.800934"
+       height="8.3815727"
+       width="18.85854"
+       id="rect4229"
+       style="opacity:1;fill:#ffffff" />
+    <text
+       id="text9117"
+       y="256.79968"
+       x="52.223312"
+       style="font-style:normal;font-weight:normal;font-size:12.14459896px;line-height:110.00000238%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30361497px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       sodipodi:linespacing="110%"><tspan
+         id="tspan9115"
+         style="font-size:2.82222223px;line-height:110.00000238%;text-align:center;text-anchor:middle;stroke-width:0.30361497px"
+         y="256.79968"
+         x="52.223312"
+         sodipodi:role="line">meer dan</tspan><tspan
+         style="font-size:2.82222223px;line-height:110.00000238%;text-align:center;text-anchor:middle;stroke-width:0.30361497px"
+         y="259.90411"
+         x="52.223312"
+         sodipodi:role="line"
+         id="tspan3479">€1100</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="polyline"
+       id="path3391"
+       d="M 26.063919,242.63671 11.209398,276.75235"
+       style="fill:#bfafa0;fill-opacity:1;fill-rule:evenodd;stroke:#bfafa0;stroke-width:3.70725894;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5929)" />
+    <rect
+       style="fill:#ffffff;opacity:1"
+       id="rect3403"
+       width="18.85854"
+       height="8.3815727"
+       x="10.063158"
+       y="253.25299"
+       ry="3.4762726" />
+    <text
+       id="text9130"
+       y="256.79968"
+       x="19.485538"
+       style="font-style:normal;font-weight:normal;font-size:12.14459896px;line-height:110.00000238%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30361497px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       sodipodi:linespacing="110%"><tspan
+         style="font-size:2.82222223px;line-height:110.00000238%;text-align:center;text-anchor:middle;stroke-width:0.30361497px"
+         y="256.79968"
+         x="19.485538"
+         sodipodi:role="line"
+         id="tspan3464">ten hoogste</tspan><tspan
+         style="font-size:2.82222223px;line-height:110.00000238%;text-align:center;text-anchor:middle;stroke-width:0.30361497px"
+         y="259.90411"
+         x="19.485538"
+         sodipodi:role="line"
+         id="tspan3462">€1100</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3435"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion3437"><rect
+           id="rect3439"
+           width="101"
+           height="53.5"
+           x="75.5"
+           y="-2.7500024" /></flowRegion><flowPara
+         id="flowPara3441" /></flowRoot>  </g>
+</svg>

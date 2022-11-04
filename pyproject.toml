@@ -1,0 +1,12 @@
+[tool.pytask.ini_options]
+infer_latex_dependencies = "True"
+show_errors_immediately = "True"
+n_entries_in_table = "15"
+filterwarnings = [
+    "ignore:.*U.*mode is deprecated:DeprecationWarning",
+    "ignore:distutils Version classes are deprecated.:DeprecationWarning",
+    "ignore:the imp module is deprecated in favour of importlib:DeprecationWarning",
+    "ignore:Please use `convolve1d` from the `scipy.ndimage`:DeprecationWarning",
+    "ignore:Proper LaTeX compilation requires the package siunitx:UserWarning",
+    "ignore:In future versions `DataFrame.to_latex`:FutureWarning"
+]

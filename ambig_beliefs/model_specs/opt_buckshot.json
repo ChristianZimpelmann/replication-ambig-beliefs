@@ -1,0 +1,7 @@
+{
+    "method": "buckshot",
+    "options": {
+        "shrink_border": 2,
+        "npts": 20
+    }
+}

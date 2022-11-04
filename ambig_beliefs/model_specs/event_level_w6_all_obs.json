@@ -1,0 +1,89 @@
+{
+  "model_general": {
+    "pooling": "individual",
+    "least_squares_estimation": false,
+    "nested_estimation": false,
+    "unrestricted_above_sigma": false,
+    "use_event_0": true,
+    "error_event_level": true,
+    "het_subj_probs": false
+  },
+  "model_parameters": [
+    {
+      "description": "Subjective Probability of Event 0",
+      "fixed": false,
+      "heterogeneous_over_waves": false,
+      "name": "pi_0",
+      "symbol": "π_0",
+      "lower_bound": 0,
+      "upper_bound": 1,
+      "start_value": 0.2
+    },
+    {
+      "description": "Subjective Probability of Event 1",
+      "fixed": false,
+      "heterogeneous_over_waves": false,
+      "name": "pi_1",
+      "symbol": "π_1",
+      "lower_bound": 0,
+      "upper_bound": 1,
+      "start_value": 0.1
+    },
+    {
+      "description": "Subjective Probability of Event 2",
+      "fixed": false,
+      "heterogeneous_over_waves": false,
+      "name": "pi_2",
+      "symbol": "π_2",
+      "lower_bound": 0,
+      "upper_bound": 1,
+      "start_value": 0.6
+    },
+    {
+      "description": "Intercept of source function (ambiguity loving)",
+      "fixed": false,
+      "heterogeneous_over_waves": false,
+      "name": "tau",
+      "symbol": "τ",
+      "lower_bound": 0,
+      "upper_bound": 1,
+      "start_value": 0.1
+    },
+    {
+      "description": "Scaling part of source function (ambiguity sensitivity)",
+      "fixed": false,
+      "heterogeneous_over_waves": false,
+      "name": "sigma",
+      "symbol": "γ",
+      "lower_bound": 0,
+      "upper_bound": 1,
+      "start_value": 0.6
+    },
+    {
+      "description": "Strength of random component (Fechner error)",
+      "fixed": false,
+      "heterogeneous_over_waves": false,
+      "name": "theta",
+      "symbol": "θ",
+      "lower_bound": 0,
+      "upper_bound": null,
+      "start_value": 0.1
+    },
+    {
+      "description": "Probability of a random choice",
+      "fixed": true,
+      "heterogeneous_over_waves": false,
+      "name": "omega",
+      "symbol": "ω",
+      "lower_bound": 0,
+      "upper_bound": 1,
+      "start_value": 0
+    }
+  ],
+  "sample": {
+    "wave": [
+      6
+    ],
+    "restriction_ind_waves": "completed_elicitation"
+  }
+}

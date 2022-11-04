@@ -1,0 +1,7 @@
+{
+    "method": "lattice",
+    "options": {
+        "shrink_border": 2,
+        "nbins": 20
+    }
+}

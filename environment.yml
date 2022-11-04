@@ -1,0 +1,44 @@
+name: ambig_beliefs
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - black
+  - conda-build
+  - estimagic
+  - jupyterlab
+  - kmodes
+  - loky
+  - numba
+  - openpyxl
+  - pandas
+  - pdbpp
+  - pip
+  - pyarrow
+  - pytask
+  - pytask-latex
+  - pytask-parallel
+  - pytask-r
+  - latex-dependency-scanner
+  - pytest
+  - python=3.9
+  - rpy2==3.4.5
+  - r-aer
+  - r-arrow=8
+  - r-base=4.1.3=h06d3f91_1
+  - r-desctools
+  - r-multcomp
+  - scikit-fuzzy
+  - scikit-learn
+  - seaborn
+  - sphinx
+  - sphinxcontrib-bibtex
+  - statsmodels=0.12
+  - openpyxl
+  - nodejs
+  - nb_black
+  - pip:
+      - linearmodels
+      - mystic
+      - pathos
+      - pre-commit

@@ -1,0 +1,30 @@
+{
+    "eventlevel-varyingprobs": [
+     "event_level_w1",
+     "event_level_w2",
+     "event_level_w3",
+     "event_level_het_prob"
+    ],
+    "eventlevel": [
+     "event_level_w1",
+     "event_level_w2",
+     "event_level_w3",
+     "event_level_pooled"
+    ],
+    "leastsquares": [
+     "least_squares_w1",
+     "least_squares_w2",
+     "least_squares_w3",
+     "least_squares_pooled"
+    ],
+    "fechner": ["theta_w1", "theta_w2", "theta_w3", "theta_pooled"],
+    "trembling": ["omega_w1", "omega_w2", "omega_w3", "omega_pooled"],
+    "idx": ["event_level_w1", "event_level_w2", "event_level_w3"],
+    "els": ["event_level_w1", "event_level_w2", "event_level_w3"],
+    "fechner-trembling": ["omega_theta_pooled"],
+    "fechner-trembling-varyingprobs": ["omega_theta_het_prob"],
+    "fechner-varyingprobs": ["theta_het_prob"],
+    "fechner-varyingprobs-unres-above-sigma": [
+        "theta_het_prob_unrestricted_above_sigma_improved"
+    ]
+ }

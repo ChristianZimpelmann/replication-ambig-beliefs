@@ -1,0 +1,17 @@
+{
+    "method": "diff_evolution",
+    "options": {
+        "NP": 100,
+        "CrossProbability": 0.7,
+        "ScalingFactor": 0.6,
+        "shrink_border": 5,
+        "termination_name": "VTRChangeOverGeneration",
+        "termination_options":
+            {
+                "ftol": 0,
+                "gtol": 1e-06, 
+                "generations": 30, 
+                "target": 0.0
+            }
+    }
+}

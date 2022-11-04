@@ -1,0 +1,142 @@
+"new_name";"labels";"L_self_assessment_main_3p.dta";"L_self_assessment_3p.dta"
+"personal_id";"Number of household member encrypted";"nomem_encr";"nomem_encr"
+"hh_id";"Number of household encrypted";;"nohouse_encr"
+"date_fieldwork";"Year and month of the field work period";"maandnr";"maandnr"
+"start_date";"Date of start of questionnaire";"DatumB";"DatumB"
+"end_date";"Date end of questionnaire";"DatumE";"DatumE"
+"start_time";"Time start questionnaire";"TijdB";"TijdB"
+"end_time";"Time end of questionnaire";"TijdE";"TijdE"
+"duration_in_sec";"Duration of the questionnaire in seconds";"duur";"duur"
+"questionnaire_difficult";"Did you find it difficult to answer the questions?";"eva2t1";"eva2t1"
+"questionnaire_clear";"Did you find the questions clear?";"eva2t2";"eva2t2"
+"questionnaire_thinking";"Did the questionnaire get you thinking?";"eva2t3";"eva2t3"
+"questionnaire_interesting";"Did you find the subject interesting?";"eva2t4";"eva2t4"
+"questionnaire_enjoy";"Did you find it pleasant to fill in the questions?";"eva2t5";"eva2t5"
+"comment";"You can enter your comment below.";"evaopm";"evaopm"
+"birth_year";"Year of birth";;"gebjaar"
+"gender";"Sex";;"geslacht"
+"age";"Age of household member";;"leeftijd"
+"age_cbs";"Age in CBS categories";;"lftdcat"
+"education_cbs";"Training in CBS categories";;"oplcat"
+"education_diploma";"Highest training with diploma";;"oplmet"
+"education_nodiploma";"Highest training regardless of diploma";;"oplzon"
+"occupation";"Main activity";;"belbezig"
+"hh_position";"Position in the household";;"positie"
+"hhh_partner";"The head of household lives with a partner (married or unmarried)";;"partner"
+"hh_position_used";"Position in the household";;"p_positie"
+"hhh_partner_used";"Age in CBS categories";;"p_partner"
+"civil_status";"Marital status";;"burgstat"
+"hh_members";"Number of members in the household";;"aantalhh"
+"hh_children";"Number of children living at home in the household";;"aantalki"
+"hh_head_age";"Age of the household head";;"lftdhhh"
+"dom_situation";"Residential form household";;"woonvorm"
+"dwelling_type";"Type of house in which the household lives";;"woning"
+"location_urban";"Urbanity residence";;"sted"
+"gross_income_cat";"Personal gross monthly income in categories";;"brutocat"
+"gross_income_incl_cat";"Personal gross monthly income in euros";;"brutoink"
+"gross_income_imputed";"Personal gross income, imputed";;"brutoink_f"
+"gross_income_hh";"Gross household income,imputed";;"brutohh_f"
+"net_income_original";"Personal net income,original value";;"netinc"
+"net_income_cat";"Personal net monthly income in categories";;"nettocat"
+"net_income_incl_cat";"Personal net monthly income in euros";;"nettoink"
+"net_income_imputed";"Personal net income,imputed ";;"nettoink_f"
+"net_income_hh";"Net income of the household, imputed";;"nettohh_f"
+"self_assessment_greedy";"Ik ben eigenlijk wel hebzuchtig";;"self_assessment1"
+"self_assessment_gambler";"Ik ben eigenlijk wel een gokker";;"self_assessment2"
+"self_assessment_selfish";"Ik ben eigenlijk wel egoïstisch";;"self_assessment3"
+"other_stocks_greedy";"Mensen die risicovolle investeringen hebben zoals bijvoorbeeld aandelen, zijn ge";;"other_assess_risk1"
+"other_stocks_gambler";"Mensen die risicovolle investeringen hebben zoals bijvoorbeeld aandelen, zijn ge";;"other_assess_risk2"
+"other_stocks_selfish";"Mensen die risicovolle investeringen hebben zoals bijvoorbeeld aandelen, zijn ge";;"other_assess_risk3"
+"other_nostocks_greedy";"Mensen die geen risicovolle investeringen hebben zoals bijvoorbeeld aandelen, zi";;"other_assess_norisk1"
+"other_nostocks_gambler";"Mensen die geen risicovolle investeringen hebben zoals bijvoorbeeld aandelen, zi";;"other_assess_norisk2"
+"other_nostocks_selfish";"Mensen die geen risicovolle investeringen hebben zoals bijvoorbeeld aandelen, zi";;"other_assess_norisk3"
+"response_stocks_greedy";"Hoe antwoorden mensen die risicovolle investeringen hebben, zoals bijvoorbeeld a";;"self_assess_risk1"
+"response_stocks_gambler";"Hoe antwoorden mensen die risicovolle investeringen hebben, zoals bijvoorbeeld a";;"self_assess_risk2"
+"response_stocks_selfish";"Hoe antwoorden mensen die risicovolle investeringen hebben, zoals bijvoorbeeld a";;"self_assess_risk3"
+"response_nostocks_greedy";"Hoe antwoorden mensen die geen risicovolle investeringen hebben, zoals bijvoorbe";;"self_assess_norisk1"
+"response_nostocks_gambler";"Hoe antwoorden mensen die geen risicovolle investeringen hebben, zoals bijvoorbe";;"self_assess_norisk2"
+"response_nostocks_selfish";"Hoe antwoorden mensen die geen risicovolle investeringen hebben, zoals bijvoorbe";;"self_assess_norisk3"
+"fin_invest";"Hebt u zelf risicovolle investeringen (zoals aandelen of fondsen)?";;"fin_invest"
+"vol_work";"Doet u momenteel vrijwilligerswerk of hebt u dat in de afgelopen 2 jaar gedaan?";;"add1"
+"stranger_help";"Hebt u in de afgelopen 2 jaar een vreemde geholpen die hulp nodig had?";;"add2"
+"brought_product";"Hebt u ooit een product gekocht dat u eigenlijk niet nodig had, gewoon omdat u h";;"add3"
+"felt_unsat";"Hebt u zich in de afgelopen twee jaar ontevreden gevoeld omdat u meer dingen wil";;"add4"
+"lost_money_casino";"Hebt u ooit geld verloren in een casino?";;"add5"
+"took_too_much_risk ";"Bent u ooit in een situatie geweest waarin u spijt had dat u te veel risico had ";;"add6"
+"comments";"Hebt u nog opmerkingen over deze vragenlijst?";"opm";
+"treatment_info";"Willekeurig getal: Welke soort grafieken kreeg de respondent te zien?";"Conditie";
+"prior_response_greed";"Ingelezen variabele: Door panellid geschatte verschil in hebzucht tussen mensen ";"stereo_response_greed";
+"prior_response_gambler";"Ingelezen variabele: Door panellid geschatte verschil in gokker zijn tussen mens";"stereo_response_gambler";
+"prior_response_selfish";"Ingelezen variabele: Door panellid geschatte verschil in egoïsme tussen mensen d";"stereo_response_selfish";
+;"Berekende variabele: Absolute waarde van het door panellid geschatte verschil in";"calc_greed";
+;"Berekende variabele: Absolute waarde van het door panellid geschatte verschil in";"calc_gambler";
+;"Berekende variabele: Absolute waarde van het door panellid geschatte verschil in";"calc_selfish";
+;"Berekende variabele: Door panellid geschatte verschil in vrijwilligerswerk doen ";"calc_1";
+;"Berekende variabele: Door panellid geschatte verschil in vreemden helpen tussen ";"calc_2";
+;"Berekende variabele: Door panellid geschatte verschil in onnodig kopen tussen me";"calc_3";
+;"Berekende variabele: Absolute waarde van het door panellid geschatte verschil in";"calc_vw";
+;"Berekende variabele: Absolute waarde van het door panellid geschatte verschil in";"calc_vh";
+;"Berekende variabele: Absolute waarde van het door panellid geschatte verschil in";"calc_ok";
+"response_stock_vol_work";"Van de groep mensen met risicovolle investeringen: Hoe groot denkt u dat het per";"v1a";
+"response_nostock_vol_work";"Van de groep mensen zonder risicovolle investeringen: Hoe groot denkt u dat het ";"v1b";
+"response_stock_stranger_help";"Van de groep mensen met risicovolle investeringen: Hoe groot denkt u dat het per";"v2a";
+"response_nostock_stranger_help";"Van de groep mensen zonder risicovolle investeringen: Hoe groot denkt u dat het ";"v2b";
+"response_stock_brought_prod";"Van de groep mensen met risicovolle investeringen: Hoe groot denkt u dat het per";"v3a";
+"response_nostock_brought_prod";"Van de groep mensen zonder risicovolle investeringen: Hoe groot denkt u dat het ";"v3b";
+"posterior_other_stock_greed";"Mensen die wel risicovolle investeringen hebben (zoals bijvoorbeeld aandelen), z";"v5a";
+"posterior_other_stock_gambler";"Mensen die wel risicovolle investeringen hebben (zoals bijvoorbeeld aandelen), z";"v5b";
+"posterior_other_stock_selfish";"Mensen die wel risicovolle investeringen hebben (zoals bijvoorbeeld aandelen), z";"v5c";
+"posterior_other_nostock_greed";"Mensen die geen risicovolle investeringen hebben (zoals bijvoorbeeld aandelen), ";"v5d";
+"posterior_other_nostock_gambler";"Mensen die geen risicovolle investeringen hebben (zoals bijvoorbeeld aandelen), ";"v5e";
+"posterior_other_nostock_selfish";"Mensen die geen risicovolle investeringen hebben (zoals bijvoorbeeld aandelen), ";"v5f";
+"investment_decision_ext_margin";"Wilt u een deel van de 100 euro investeren in de risicovolle belegging?";"v6";
+"investment_decision_int_margin";"Hoeveel van de 100 euro wilt u op de bankrekening beleggen en hoeveel in de risi";"v6b";
+;"Hoeveel van de 100 euro wilt u op de bankrekening beleggen en hoeveel in de risi";"v6c";
+"likelihood_participation";"Denkt u dat u in de komende zes maanden een deel van uw eigen geld zult beleggen";"v7";
+"long_time_investment";"Ik zal onder geen enkele omstandigheid of situatie mijn eigen geld de komende vi";"v8";
+"has_chosen_info";"Als u wilt, kunt u deze informatie ontvangen als een PDF-bestand dat u na afloop";"v9";
+"pol_pref_1_wealth_tax";"De belasting op persoonlijke beleggingen en spaargelden (particulier vermogen) m";"v10a";
+"pol_pref_2_capital_wealth_tax";"Beleggingen in risicovolle financiële investeringen zoals aandelen of fondsen mo";"v10b";
+"pol_pref_3_retirement_cap_supp";"Beleggingen in aandelen en fondsen voor particuliere pensionering moeten door de";"v10c";
+"pol_pref_4_fin_transaction_tax";"In Nederland moet een belasting op financiële transacties worden ingevoerd";"v10d";
+"pol_pref_5_restrictions_on_spec";"Financiële producten en methoden die weddenschappen en speculatie op de prijzen ";"v10e";
+"pol_pref_6_cap_gain_tax";"Er moet een belasting komen op winsten uit de handel in risicovolle financiële b";"v10f";
+"alloc_dutch_vs_own_organisation";"Verdeel 100 euro tussen een willekeurig gekozen persoon uit Nederland en een lid";"v11a";
+;"Berekende variabele: Verdeel 100 euro tussen een willekeurig gekozen persoon uit";"v11a2";
+"alloc_world_vs_dutch";"Verdeel 100 euro tussen een willekeurig gekozen persoon uit de hele wereld en ee";"v11b";
+;"Berekende variabele: Verdeel 100 euro tussen een willekeurig gekozen persoon uit";"v11b2";
+"alloc_world_vs_own_language";"Verdeel 100 euro tussen een willekeurig gekozen persoon uit de hele wereld en ie";"v11c";
+;"Berekende variabele: Verdeel 100 euro tussen een willekeurig gekozen persoon uit";"v11c2";
+"alloc_stockholder_vs_nonstock";"Verdeel 100 euro tussen een persoon uit het panel met risicovolle investeringen ";"v11d";
+;"Berekende variabele: Verdeel 100 euro tussen een persoon uit het panel met risic";"v11d2";
+"ident_scale_1";"Het niet hebben van risicovolle investeringen is een belangrijk onderdeel van mi";"v12a";
+"ident_scale_2";"Ik ben er trots op dat ik geen risicovolle investeringen heb";"v12b";
+"ident_scale_3";"Wanneer een persoon of de media mensen bekritiseert omdat ze geen risicovolle in";"v12c";
+"ident_scale_4";"Ik lijk heel weinig op mensen die wel risicovolle investeringen hebben";"v12d";
+"ident_scale_5";"Als ik van een persoon zou weten dat die persoon wel risicovolle investeringen h";"v12e";
+"self_image_uncertainty";"Ik ben niet helemaal zeker wat voor een persoon ik ben";"v13a";
+"social_image_importance";"Welke mening anderen van mij hebben is erg belangrijk voor mij";"v13b";
+"social_image_stocks";"Ik wil door anderen niet gezien worden als iemand met risicovolle investeringen";"v13c";
+"self_image_importance";"Bij het nemen van beslissingen denk ik vaak na over wat de alternatieven beteken";"v13d";
+"social_image_everyone_knows";"[Situatie 1] In deze situatie zou ik mij kunnen voorstellen dat ik op een bepaal";"v13e";
+"social_image_no_one_knows";"[Situatie 2] In deze situatie zou ik mij kunnen voorstellen dat ik op een bepaal";"v13f";
+"trust_politicians";"Geef aan of u vindt dat mensen die de volgende beroepen uitvoeren te vertrouwen ";"v14a";
+"trust_bankers";"Geef aan of u vindt dat mensen die de volgende beroepen uitvoeren te vertrouwen ";"v14b";
+"trust_financial_advisors";"Geef aan of u vindt dat mensen die de volgende beroepen uitvoeren te vertrouwen ";"v14c";
+"trust_insurance_agents";"Geef aan of u vindt dat mensen die de volgende beroepen uitvoeren te vertrouwen ";"v14d";
+"trust_doctors";"Geef aan of u vindt dat mensen die de volgende beroepen uitvoeren te vertrouwen ";"v14e";
+"belief_return_AEX";"Denk aan de Nederlandse aandelenmarkt. Hoeveel verwacht u dat een investering va";"v15a";
+"belief_fraction_has_stocks";"Denk aan alle Nederlanders die ouder zijn dan 18 jaar. Hoeveel procent van die N";"v15b";
+"confidence_stock_knowledge";"Op dit moment heb ik vertrouwen in mijn kennis over hoe de aandelenmarkt werkt";"v16a";
+"zero_sum_belief_stock";"Bij financiële investeringen is het vaak zo dat wanneer de ene persoon iets wint";"v16b";
+"belief_no_skill_succ_stock";"Ik heb momenteel niet wat nodig is om succesvol te zijn op de aandelenmarkt";"v16c";
+"no_talk_money";"Je moet niet over geld praten";"v16d";
+"stereo_other_stock_only_SRI";"Wilt u aangeven of deze mensen, gemiddeld genomen, eigenlijk wel egoïstisch zijn";"v17a";
+"stereo_other_stock_extra_risk";"Wilt u aangeven of deze mensen, gemiddeld genomen, eigenlijk wel egoïstisch zijn";"v17b";
+"stereo_other_stock_only_mutual";"Wilt u aangeven of deze mensen, gemiddeld genomen, eigenlijk wel egoïstisch zijn";"v17c";
+"talk_investment";"Hoe vaak praat u met mensen buiten uw huishouden over hoe zij hun geld beleggen?";"v18a";
+"has_neg_experiences";"Hebt u zelf ooit negatieve ervaringen opgedaan met risicovolle investeringen?";"v18b";
+"parents_fin_invest";"Hebben of hadden uw ouders risicovolle investeringen zoals aandelen?";"v18c";
+"number_friends_fin_invest";"Hoeveel vrienden en/of vriendinnen hebt u van wie u weet dat ze risicovolle inve";"v18d";
+"fin_invest";"Hebt u zelf risicovolle investeringen (zoals aandelen of fondsen)?";"v18e";
+"comprehension_question";"Eerder in de vragenlijst hebben we u een grafiek laten zien. Welke van de volgen";"v19";
