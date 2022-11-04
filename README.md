@@ -17,5 +17,5 @@ The replication of figures and tables proceeds as follows:
 - Install a [Miniconda](https://docs.conda.io/projects/continuumio-conda/en/latest/user-guide/install/index.html) python distribution on your computer and create a conda environment using `environment.yml`.
 - Run `conda develop .`
 - Run `pytask`
-
-`pytask` runs the general data cleaning, project specific data cleaning, analyses, and creation of figures and tables automatically in the right order. All created tables and figures will be saved in the directory `out`.
+- `pytask` runs the general data cleaning, project specific data cleaning, analyses, and creation of figures and tables automatically in the right order. 
+- All created tables and figures will be saved in the directory `out`.
