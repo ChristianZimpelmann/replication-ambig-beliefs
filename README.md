@@ -1,6 +1,6 @@
 # Repository for the research project: The Distribution of Ambiguity Attitudes
 
-This repository contains the replication package for the paper ["The Distribution of Ambiguity Attitudes"](https://www.wiwi.uni-bonn.de/gaudecker/_static/ambiguity-attitudes.pdf) by Hans-Martin von Gaudecker, Axel Wogrolly, and Christian Zimpelmann in the version of November 2022.
+This repository contains the replication package for the paper ["The Distribution of Ambiguity Attitudes"](https://www.wiwi.uni-bonn.de/gaudecker/_static/ambiguity-attitudes.pdf) by Hans-Martin von Gaudecker, Axel Wogrolly, and Christian Zimpelmann (version of November 2022).
 
 ## Data
 
