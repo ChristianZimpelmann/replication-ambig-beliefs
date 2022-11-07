@@ -45,7 +45,6 @@ ESTIMATE = True
 REDUCED_N_AGENTS = False
 MODEL_NAMES_ESTIMATION = [
     "event_level_temp",
-    "event_level_w1",
     "event_level_w2",
     "event_level_w3",
     "event_level_w4",
@@ -53,7 +52,6 @@ MODEL_NAMES_ESTIMATION = [
     "event_level_w6",
     "event_level_w7",    
     "event_level_temp_unrestricted_above_sigma",
-    "event_level_w1_unrestricted_above_sigma",
     "event_level_w2_unrestricted_above_sigma",
     "event_level_w3_unrestricted_above_sigma",
     "event_level_w4_unrestricted_above_sigma",
