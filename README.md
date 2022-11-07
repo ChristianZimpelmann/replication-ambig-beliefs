@@ -21,7 +21,7 @@ The replication of figures and tables proceeds as follows:
     - install.packages("marginaleffects")
 - `conda develop .`
 - `conda develop ambig_beliefs/original_data/liss-data`
-- Use the branch `improve_estimation_table` from the `estimagic` package (skip this step and just install `estimagic` in case this branch is merged already)
+- Use the branch `improve_estimation_table` from the `estimagic` package (skip this step and just install `estimagic` in case that branch is merged already)
   - clone `estimagic` from [here](https://github.com/OpenSourceEconomics/estimagic) 
   - switch to improve_estimation_table branch in `estimagic` source
   - `pip install -e ../relative/path/to/estimagic`
