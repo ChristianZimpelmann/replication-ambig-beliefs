@@ -41,63 +41,33 @@ CORONA_PREP_LISS = False
 CORONA_INSTALL = False
 
 # "Estimate the main models, takes a couple of days."
-ESTIMATE = False
+ESTIMATE = True
 REDUCED_N_AGENTS = False
 MODEL_NAMES_ESTIMATION = [
-    # "least_squares_w1",
-    # "least_squares_w2",
-    # "least_squares_w3",
-    # "least_squares_w4",
-    # "least_squares_pooled",
-    # "least_squares_het_prob",
-    # "least_squares_w1_unrestricted_above_sigma",
-    # "least_squares_w2_unrestricted_above_sigma",
-    # "least_squares_w3_unrestricted_above_sigma",
-    # "least_squares_w4_unrestricted_above_sigma",
-    # "least_squares_temp_unrestricted_above_sigma",
-    # "least_squares_het_prob_unrestricted_above_sigma",
-    # "least_squares_pooled_unrestricted_above_sigma",
-    # "least_squares_w5",
-    # "least_squares_w5_unrestricted_above_sigma",
-    # "event_level_w1",
-    # "event_level_w2",
-    # "event_level_w3",
-    # "event_level_w4",
-    # "event_level_w5",
-    # "event_level_w6",
-    # "event_level_temp_all_obs",
-    "event_level_w1_all_obs",
-    "event_level_w1_unrestricted_above_sigma",
-    # "event_level_w2_all_obs",
-    # "event_level_w3_all_obs",
-    # "event_level_w4_all_obs",
-    # "event_level_w5_all_obs",
-    # "event_level_w6_all_obs",
-    # "event_level_w7_all_obs",
-    # # "event_level_w6_unrestricted_above_sigma",
-    # # # "event_level_w7",
-    # # "event_level_w7_unrestricted_above_sigma",
-    # # "event_level_temp",
-    # # "event_level_pooled_1_4",
-    # # "event_level_het_prob_1_4",
-    # # "event_level_pooled_2_5",
-    # # "event_level_het_prob_2_5",
-    # # "event_level_het_prob_2_6",
-    # # "event_level_het_prob_2_6_unrestricted_above_sigma",
-    # # "event_level_het_prob_2_7",
-    # "event_level_het_prob_2_7_all_obs",
-    # "event_level_het_prob_2_7_unrestricted_above_sigma",
-    # # "event_level_pooled_2_6",
-    # "event_level_pooled",
-    # "event_level_het_prob",
-    # "event_level_w4_unrestricted_above_sigma",
-    # "event_level_temp_unrestricted_above_sigma",
-    # "event_level_het_prob_1_4_unrestricted_above_sigma",
-    # "event_level_pooled_1_4_unrestricted_above_sigma",
-    # "event_level_het_prob_unrestricted_above_sigma",
-    # "event_level_pooled_unrestricted_above_sigma",
-    # "event_level_het_prob_2_7_n_selected_waves_2",
-    # "event_level_het_prob_2_7_n_selected_waves_3",
+    "event_level_temp",
+    "event_level_w2",
+    "event_level_w3",
+    "event_level_w4",
+    "event_level_w5",
+    "event_level_w6",
+    "event_level_w7",    
+    "event_level_temp_unrestricted_above_sigma",
+    "event_level_w2_unrestricted_above_sigma",
+    "event_level_w3_unrestricted_above_sigma",
+    "event_level_w4_unrestricted_above_sigma",
+    "event_level_w5_unrestricted_above_sigma",
+    "event_level_w6_unrestricted_above_sigma",
+    "event_level_w7_unrestricted_above_sigma",   
+    "event_level_temp_all_obs",
+    "event_level_w2_all_obs",
+    "event_level_w3_all_obs",
+    "event_level_w4_all_obs",
+    "event_level_w5_all_obs",
+    "event_level_w6_all_obs",
+    "event_level_w7_all_obs",
+    "event_level_het_prob_2_7",
+    "event_level_het_prob_2_7_all_obs",
+    "event_level_het_prob_2_7_unrestricted_above_sigma",
 ]
 
 MODES = [
@@ -184,13 +154,6 @@ NAMES_INDICES_SPEC = [
 ]
 
 K_MAX = [15, 8]
-
-M_TO_N_SELECTED_WAVES = {
-    "event_level_het_prob_2_7": {
-        2: "event_level_het_prob_2_7_n_selected_waves_2",
-        3: "event_level_het_prob_2_7_n_selected_waves_3",
-    }
-}
 
 BASIC_CONTROLS = [
     "age_groups",
