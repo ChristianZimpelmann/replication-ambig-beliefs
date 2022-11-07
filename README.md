@@ -27,6 +27,6 @@ The replication of figures and tables proceeds as follows:
   - `pip install -e ../relative/path/to/estimagic`
 - Run `pytask`, which will perform
   - the general data cleaning, project specific data cleaning, 
-  - analyses ("estimation of the models, can take a couple of days"), 
+  - analyses (estimation of the models, can take a couple of days), 
   - and creation of figures and tables
 - All created tables and figures will be saved in the directory `out`
