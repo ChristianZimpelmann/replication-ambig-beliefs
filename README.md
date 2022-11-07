@@ -8,7 +8,7 @@ The data is based on the [LISS (Longitudinal Internet Studies for the Social sci
 
 In `ambig_beliefs/original_data/liss-data`, general data cleaning steps (renaming of variables and values, merging of yearly files, etc.) are conducted on the raw data files of the LISS. This step is based on a general LISS data cleaning repository and also run automatically by `pytask` (see below). See [this documentation](https://liss-data-management-documentation.readthedocs.io/en/latest/#) for more information.
 
-Before running the project, download all LISS raw data files and put them in the directory `ambig_beliefs/original_data/liss-data/data`. This is quite tedious, but you can contact us and we can give you access to the raw files once you have registered for LISS data access. As of 2022 the data sets that we collected ourselves are not yet publicly available on the website, but we are happy to share them.
+Before running the project, download all LISS raw data files and put them in the directory `ambig_beliefs/original_data/liss-data/data`. This is quite tedious, but you can contact us and we can give you access to the raw files once you have registered for LISS data access. As of 2022, the data sets that we collected ourselves are not yet publicly available on the website, but we are happy to share them.
 
 ## Run the replication
 
