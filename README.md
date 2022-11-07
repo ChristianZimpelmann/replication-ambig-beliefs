@@ -1,6 +1,6 @@
 # Repository for the research project: The Distribution of Ambiguity Attitudes
 
-This repository contains the replication package for the paper ["The Distribution of Ambiguity Attitudes"](https://www.wiwi.uni-bonn.de/gaudecker/_static/ambiguity-attitudes.pdf) by Hans-Martin von Gaudecker, Axel Wogrolly, and Christian Zimpelmann (version of November 2022).
+This repository contains the replication package for the paper ["The Distribution of Ambiguity Attitudes"](https://www.wiwi.uni-bonn.de/gaudecker/_static/ambiguity-attitudes.pdf) by Hans-Martin von Gaudecker, Axel Wogrolly, and Christian Zimpelmann.
 
 ## Data
 
@@ -14,8 +14,10 @@ Before running the project, download all LISS raw data files and put them in the
 
 The replication of figures and tables proceeds as follows:
 
-- Install a [Miniconda](https://docs.conda.io/projects/continuumio-conda/en/latest/user-guide/install/index.html) python distribution on your computer and create a conda environment using `environment.yml`
-- Run `conda develop .`
-- Run `pytask`
-- `pytask` runs the general data cleaning, project specific data cleaning, analyses, and creation of figures and tables automatically in the right order
+- Install [Miniconda](https://docs.conda.io/en/latest/miniconda.html) on your computer and create a conda environment based on `environment.yml`.
+- Activate the environment and follow the manual steps listed at the top of `environment.yml`.
+- Run `pytask`, which will perform
+  - the general data cleaning, project specific data cleaning, 
+  - analyses, 
+  - and creation of figures and tables
 - All created tables and figures will be saved in the directory `out`
