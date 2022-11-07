@@ -17,8 +17,8 @@ The replication of figures and tables proceeds as follows:
 - Install [Miniconda](https://docs.conda.io/en/latest/miniconda.html) on your computer and create a conda environment based on `environment.yml`.
 - Activate the environment
 - Start this environment's R version,
-  - install.packages("censReg")
-  - install.packages("marginaleffects")
+  - `install.packages("censReg")`
+  - `install.packages("marginaleffects")`
 - `conda develop .`
 - `conda develop ambig_beliefs/original_data/liss-data`
 - Use the branch `improve_estimation_table` from the `estimagic` package (skip this step and just install `estimagic` in case that branch is merged already)
